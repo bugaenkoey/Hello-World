@@ -1,2 +1,3 @@
 Hello world bugaenkoey@gmail.com
-set edit to file newFile
+new edit
+
